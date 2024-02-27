@@ -1,0 +1,7 @@
+Python is a versatile programming language.
+The sun is shining and the weather is pleasant.
+The cost of the project is $5000.
+Jack and Jill went up the hill to fetch a pale of water.
+There are 25 students in the class.
+The temperature outside is 32 degrees Celsius.
+The cat in the hat sat on the mat.
