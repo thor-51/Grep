@@ -1,9 +1,9 @@
 Equivalent Grep Command in Python
 
-Grep command is the short form of 'global search for regualar expressions'. The Grep command is a filter that is used to search for lines matching a specified pattern and print the matching
+Grep command is the short form of 'global search for regular expressions'. The Grep command is a filter that is used to search for lines matching a specified pattern and print the matching
 lines to a standard output. The Grep command is a command used in Unix/Linux.
 
-Apart from the above, I have coded a couple of additional features to enhance the user's experience - 
+Apart from the above, I have added a couple of additional features to enhance the user's experience - 
 1) Basic Text Search (Ability to search for a pattern within a single file or multiple files)
 2) Regular Expressions (Supports basic regular expressions for more advanced pattern matching)
 3) Case Sensitivity (Ability to perform case-sensitive or case-insensitive searches)
